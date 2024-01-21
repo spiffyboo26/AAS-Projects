@@ -1,0 +1,15 @@
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.csproj.AssemblyReference.cache
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\spiff\IntProgramming\NumberGuessingGame\bin\Debug\net7.0\NumberGuessingGame.exe
+C:\Users\spiff\IntProgramming\NumberGuessingGame\bin\Debug\net7.0\NumberGuessingGame.deps.json
+C:\Users\spiff\IntProgramming\NumberGuessingGame\bin\Debug\net7.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\spiff\IntProgramming\NumberGuessingGame\bin\Debug\net7.0\NumberGuessingGame.dll
+C:\Users\spiff\IntProgramming\NumberGuessingGame\bin\Debug\net7.0\NumberGuessingGame.pdb
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.dll
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\refint\NumberGuessingGame.dll
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.pdb
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\spiff\IntProgramming\NumberGuessingGame\obj\Debug\net7.0\ref\NumberGuessingGame.dll
