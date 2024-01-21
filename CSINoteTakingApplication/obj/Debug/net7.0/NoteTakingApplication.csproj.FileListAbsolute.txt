@@ -1,0 +1,15 @@
+C:\Users\spiff\IntProgramming\NoteTakingApplication\bin\Debug\net7.0\NoteTakingApplication.exe
+C:\Users\spiff\IntProgramming\NoteTakingApplication\bin\Debug\net7.0\NoteTakingApplication.deps.json
+C:\Users\spiff\IntProgramming\NoteTakingApplication\bin\Debug\net7.0\NoteTakingApplication.runtimeconfig.json
+C:\Users\spiff\IntProgramming\NoteTakingApplication\bin\Debug\net7.0\NoteTakingApplication.dll
+C:\Users\spiff\IntProgramming\NoteTakingApplication\bin\Debug\net7.0\NoteTakingApplication.pdb
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.csproj.AssemblyReference.cache
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.AssemblyInfoInputs.cache
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.AssemblyInfo.cs
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.csproj.CoreCompileInputs.cache
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.dll
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\refint\NoteTakingApplication.dll
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.pdb
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\NoteTakingApplication.genruntimeconfig.cache
+C:\Users\spiff\IntProgramming\NoteTakingApplication\obj\Debug\net7.0\ref\NoteTakingApplication.dll
